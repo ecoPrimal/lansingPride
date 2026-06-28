@@ -1,10 +1,18 @@
 # Lansing Pride Incident — Saturday, June 28, 2026
 
-**Complainant**: Kevin Mok (US Army infantry veteran)
+**Complainant**: Kevin Mok
 **Location**: Entrance to the Brenke Fish Ladder, Lansing, MI
 (within the Lansing Pride Festival perimeter)
 **Date/Time**: Saturday, June 28, 2026, approximately 1:00 PM
 **Status**: Charges pressed. Police report filed. Card received from officer.
+
+**Complainant background**: US Army infantryman (2012-2015,
+Schofield Barracks, HI). Company Intelligence Support Team
+(COIST) — trained in observation, behavioral analysis, and
+intelligence reporting. Radio Transmission Operator (RTO).
+MS Data Science, BS Microbiology (minor: Bioethics), Michigan
+State University. Currently PFAS Research Specialist at MSU.
+Former Research Fellow, Sandia National Laboratories.
 
 ---
 
