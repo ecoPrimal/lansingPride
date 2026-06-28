@@ -4,7 +4,9 @@
 **Location**: Entrance to the Brenke Fish Ladder, Lansing, MI
 (within the Lansing Pride Festival perimeter)
 **Date/Time**: Saturday, June 27, 2026, approximately 1:00 PM
-**Status**: Charges pressed. Police report filed. Card received from officer.
+**Status**: Charges pressed. Police report filed.
+**Police Incident #**: 26-0 5409 (Lansing Police Department)
+**Officer**: Boswell, Badge #54
 
 **Complainant background**: US Army infantryman (2012-2015,
 Schofield Barracks, HI). Company Intelligence Support Team
@@ -161,9 +163,9 @@ basement and typed this report.
 | iPhone data | Location, time, possible motion data | Preserved on device |
 | Witnesses | Drink tent staff (called security). Bystanders. | Identified by police |
 | Victims | 3-4 young girls, ages ~12-18. Oldest: brown/blonde split hair. | May not come forward |
-| Police report | Filed. Card received from officer. | Follow up for report # |
-| Kevin's physical condition (same day) | Not harmed. Adrenaline response noted. No visible injuries. | Self-reported |
-| Kevin's physical condition (next morning) | No visible bruising. Nose slightly tender. Neck and back muscles tight on right side (from resisting blows to the face). | Self-assessed Sunday June 28 |
+| Police report | Filed. Incident #26-0 5409. Officer Boswell, Badge #54. | Card photographed (IMG_5482) |
+| Kevin's physical condition (same day) | Not harmed. Adrenaline response noted. No visible injuries. | Self-reported + photographed (IMG_5488-5490) |
+| Kevin's physical condition (next morning) | No visible bruising. Nose slightly tender. Neck and back muscles tight on right side (from resisting blows to the face). | Self-assessed + photographed Sunday June 28 (IMG_5493-5495) |
 
 ---
 
@@ -204,7 +206,7 @@ This is how he treats women, children, and anyone he reads as queer.
 
 ## Next steps
 
-- [ ] Follow up with officer for police report number
+- [x] Police incident number obtained: 26-0 5409, Officer Boswell Badge #54 (IMG_5482)
 - [ ] Retrieve biometric data from watch (heart rate spike timestamps)
 - [ ] Check iPhone for location/time data
 - [x] Document any delayed physical effects — see Addendum June 28
