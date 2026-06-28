@@ -118,8 +118,11 @@ Kevin stood firm with hands raised in the air. The male **struck
 Kevin in the face again**, then turned around and walked away into
 the crowd of vendors.
 
-Kevin followed at a further distance. The girls were well out of
-sight.
+The girls were fully out of sight and security had been alerted —
+the imminent threat was resolved. Kevin took three photos of the
+aggressor from the top of the stairs (IMG_5475, IMG_5478,
+IMG_5479), then followed at 20+ feet distance and flagged
+police officers when he saw them.
 
 ### Police response
 

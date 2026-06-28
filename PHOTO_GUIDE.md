@@ -5,21 +5,31 @@ Original filenames preserved for EXIF metadata integrity.
 
 ---
 
-## Scene / Aggressor Photos
+## Aggressor Photos — Taken After Second Confrontation
+
+Taken at the top of the stairs after the second confrontation
+(body check + final strike). The girls were fully out of sight
+and security had been alerted — imminent threat resolved. Kevin
+took photos of the aggressor, then followed at 20+ feet distance
+and flagged officers when he saw them.
 
 | File | Description | Evidentiary Value |
 |------|-------------|-------------------|
-| IMG_5475.jpeg | Man in light blue shirt, grey ball cap walking near fish ladder entrance. Matches aggressor description. Pride flags and portable toilets visible. Taken from elevated position (stairs). | **Potential photo of aggressor at scene.** Matches description: grey ball cap, light blue shirt, heavier build. |
-| IMG_5478.jpeg | Same man, walking away. Progress Pride flag in foreground. Same area near fish ladder entrance. | Corroborates aggressor description and location. |
-| IMG_5479.jpeg | Same scene, slightly different angle. Man still visible. Vendor booths in background. | Additional angle of aggressor at scene. |
+| IMG_5475.jpeg | **The aggressor.** Light blue shirt, grey ball cap, walking near fish ladder entrance. Taken from elevated position (top of stairs). Pride flags and portable toilets visible. | **Positive identification of aggressor.** Matches all descriptors: grey ball cap, light blue shirt, heavier build, taller. |
+| IMG_5478.jpeg | **The aggressor.** Walking away. Progress Pride flag in foreground. Same area near fish ladder entrance. | Second photo — confirms identity, clothing, build. |
+| IMG_5479.jpeg | **The aggressor.** Same scene, slightly different angle. Vendor booths in background. | Third photo — additional angle. Three photos ensure identification even if one is unclear. |
 
 ---
 
-## Kevin at Event (after returning)
+## Kevin at Event (returned after incident)
+
+Kevin is not a selfie person. This photo exists solely as a
+record that he returned to the festival undeterred after the
+assault and police report.
 
 | File | Description | Evidentiary Value |
 |------|-------------|-------------------|
-| IMG_5480.jpeg | Selfie — Kevin at Lansing Pride, smiling. Rainbow suspenders clearly visible. "Lansing Pride — Love Out Loud" main stage behind him. | Proves Kevin returned to event. Shows rainbow suspenders (what aggressor saw). Establishes Kevin's demeanor — calm, smiling, present. |
+| IMG_5480.jpeg | Kevin at Lansing Pride after returning. Rainbow suspenders clearly visible. "Lansing Pride — Love Out Loud" main stage behind him. | Record of return to event. Shows rainbow suspenders (what aggressor targeted). Demonstrates Kevin was not intimidated. |
 
 ---
 
@@ -71,7 +81,7 @@ Original filenames preserved for EXIF metadata integrity.
 ## Summary
 
 - **14 total photos/screenshots**
-- **3 photos** potentially showing the aggressor at the scene (light blue shirt, grey ball cap)
+- **3 photos** of the aggressor taken after second confrontation (positive ID: light blue shirt, grey ball cap)
 - **1 selfie** at event showing rainbow suspenders (returned after incident)
 - **1 police card** with incident number, officer name, badge number
 - **1 basement photo** post-incident with suspenders
