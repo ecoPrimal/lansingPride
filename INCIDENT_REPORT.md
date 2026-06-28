@@ -1,9 +1,9 @@
-# Lansing Pride Incident — Saturday, June 28, 2026
+# Lansing Pride Incident — Saturday, June 27, 2026
 
 **Complainant**: Kevin Mok
 **Location**: Entrance to the Brenke Fish Ladder, Lansing, MI
 (within the Lansing Pride Festival perimeter)
-**Date/Time**: Saturday, June 28, 2026, approximately 1:00 PM
+**Date/Time**: Saturday, June 27, 2026, approximately 1:00 PM
 **Status**: Charges pressed. Police report filed. Card received from officer.
 
 **Complainant background**: US Army infantryman (2012-2015,
@@ -163,7 +163,7 @@ basement and typed this report.
 | Victims | 3-4 young girls, ages ~12-18. Oldest: brown/blonde split hair. | May not come forward |
 | Police report | Filed. Card received from officer. | Follow up for report # |
 | Kevin's physical condition (same day) | Not harmed. Adrenaline response noted. No visible injuries. | Self-reported |
-| Kevin's physical condition (next morning) | No visible bruising. Nose slightly tender. Neck and back muscles tight on right side (from resisting blows to the face). | Self-assessed Sunday June 29 |
+| Kevin's physical condition (next morning) | No visible bruising. Nose slightly tender. Neck and back muscles tight on right side (from resisting blows to the face). | Self-assessed Sunday June 28 |
 
 ---
 
@@ -207,19 +207,19 @@ This is how he treats women, children, and anyone he reads as queer.
 - [ ] Follow up with officer for police report number
 - [ ] Retrieve biometric data from watch (heart rate spike timestamps)
 - [ ] Check iPhone for location/time data
-- [x] Document any delayed physical effects — see Addendum June 29
+- [x] Document any delayed physical effects — see Addendum June 28
 - [ ] Consult on assault charge status
 - [ ] Check if festival had security cameras in the area
 
 ---
 
-*Written: Saturday, June 28, 2026 — same day, approximately
+*Written: Saturday, June 27, 2026 — same day, approximately
 2:00 PM, immediately upon returning home*
 *Author: Kevin Mok*
 
 ---
 
-## Addendum — 5:39 PM same day
+## Addendum — Saturday, June 27, 5:39 PM
 
 **Corrections to initial report:**
 - Aggressor was wearing a grey ball cap (not bald — initial error)
@@ -237,11 +237,11 @@ continued to canvass booths and browse stalls.
 from the LGBTIA lawyer Heather had been speaking with ~15 minutes
 earlier.
 
-*Addendum written: Saturday, June 28, 2026, 5:39 PM*
+*Addendum written: Saturday, June 27, 2026, 5:39 PM*
 
 ---
 
-## Addendum — Sunday, June 29, 8:37 AM (morning after)
+## Addendum — Sunday, June 28, 8:37 AM (morning after)
 
 **Physical assessment — next day:**
 - No visible bruising
@@ -286,5 +286,5 @@ of temper. He selected his targets, tested boundaries, escalated
 when challenged, and attempted to re-engage after being
 separated.
 
-*Addendum written: Sunday, June 29, 2026, 8:37 AM*
+*Addendum written: Sunday, June 28, 2026, 8:37 AM*
 *Author: Kevin Mok*
