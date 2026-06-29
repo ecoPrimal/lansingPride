@@ -213,7 +213,9 @@ This is how he treats women, children, and anyone he reads as queer.
 - [ ] Retrieve biometric data from watch (heart rate spike timestamps)
 - [ ] Check iPhone for location/time data
 - [x] Document any delayed physical effects — see Addendum June 28
-- [ ] Consult on assault charge status
+- [x] Follow-up call to Lansing PD: Monday June 29, 8:31 AM.
+  Re-confirmed identity, case number 26-0 5409, intent to press
+  charges, and availability of a fully prepared statement.
 - [ ] Check if festival had security cameras in the area
 
 ---
